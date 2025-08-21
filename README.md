@@ -1,4 +1,4 @@
- Gesture Grove – Music Control with Hand Gestures  
+## Gesture Grove – Music Control with Hand Gestures  
 
 Gesture Grove transforms the way you interact with your music.  
 Instead of relying on keyboards or mouse clicks, this project lets you **control playback and volume with natural hand gestures** captured through your webcam.  
