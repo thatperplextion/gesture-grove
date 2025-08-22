@@ -33,4 +33,4 @@ Built with **OpenCV, MediaPipe, Pycaw, and PyAutoGUI**, it brings a futuristic, 
 - Pycaw
 - PyAutoGUI
 
-
+note - python 3.11 is used in here for the mediapipe.
