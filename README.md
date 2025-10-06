@@ -17,7 +17,7 @@ Built with **OpenCV, MediaPipe, Pycaw, and PyAutoGUI**, it brings a futuristic, 
    git clone https://github.com/thatperplextion/gesture-grove.git
 2. cd gesture-grove
 3. pip install -r requirements.txt
-4. python src/gesture_grove/MusicGestures.py
+4. python gesture_grove/MusicGestures.py
 
 
 ## 🎮 Usage
